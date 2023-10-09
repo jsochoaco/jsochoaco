@@ -1,5 +1,5 @@
-<h1 align="center">Hola todos 👋, I'm Juan Sebastián Ochoa Cortés</h1>
-<h3 align="center">Un innovador y creativo desarrollador full stack de Colombia</h3>
+<h1 align="center">Hola todos 👋, soy Juan Sebastián Ochoa Cortés</h1>
+<h3 align="center">Un innovador y creativo desarrollador full stack de Colombia :star: </h3>
 
 <h3 align="left">Sobre mi: </h3>
 <p align="left">Full Stack Developer especializado en Front-end con background en ingeniería mecánica y diseño de productos que me ayudaron a liderar proyectos de diseño de productos, trabajar en equipos multidisciplinares y desarrollar productos orientados al usuario. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks de CSS. Experiencia en desarrollo de Front-end y Back-end con JavaScript, React, Redux, NodeJS, Express, SQL y diseñador UX/UI.  Con gran capacidad de adaptabilidad, innovación, liderazgo, resolución de problemas e iniciativa.  Nivel de Inglés: Intermedio (B2).</p>
