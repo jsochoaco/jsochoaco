@@ -1,15 +1,92 @@
-<h1 align="center">Hola todos 👋, soy Juan Sebastián Ochoa Cortés</h1>
-<h3 align="center">Un innovador y creativo desarrollador full stack de Colombia :star: </h3>
+<h1 align="center">Hi 👋 I'm Juan Sebastián Ochoa Cortés</h1>
+<h3 align="center">AI & Computer Vision Builder — AgTech | Multimodal ML | Full-Stack Systems</h3>
 
-<h3 align="left">Sobre mi: </h3>
-<p align="left">Full Stack Developer especializado en Front-end con background en ingeniería mecánica y diseño de productos que me ayudaron a liderar proyectos de diseño de productos, trabajar en equipos multidisciplinares y desarrollar productos orientados al usuario. Conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, frameworks de CSS. Experiencia en desarrollo de Front-end y Back-end con JavaScript, React, Redux, NodeJS, Express, SQL y diseñador UX/UI.  Con gran capacidad de adaptabilidad, innovación, liderazgo, resolución de problemas e iniciativa.  Nivel de Inglés: Intermedio (B2).</p>
+---
 
+## 🚀 About Me
 
-<h3 align="left">Conecta conmigo:</h3>
-<p align="left">
-<a href="https://twitter.com/jsochoaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jsochoaco" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juanochoa-fullstack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juanochoa-fullstack" height="30" width="40" /></a>
-</p>
+I’m a technical founder and builder working on **applied AI for agriculture**.  
+CTO & Co-founder at **Tecde / Harvis**, a multimodal AI platform for crop productivity and quality estimation using computer vision and predictive models.
 
-<h3 align="left">Lenguajes y herramients:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Background in mechanical engineering, product design, and full-stack development. I specialize in turning messy real-world problems into working AI systems and production MVPs.
+
+- 🎓 Techstars Chicago AI Accelerator (2024)
+- 📄 Published CV research — ISSCT Centenary Congress (2025)
+- 🧠 Focus: Computer Vision + Multimodal AI + Field Data Systems
+- ⚡ I build fast with small teams using AI leverage
+
+---
+
+## 🧠 What I Build
+
+- Computer vision pipelines for real-world environments  
+- Multimodal ML systems (image + tabular + field data)  
+- AI-powered web platforms  
+- Data collection & labeling pipelines  
+- MVPs → production pilots  
+- Applied ML for agriculture
+
+---
+
+## 🛠 Tech Stack
+
+### AI / ML
+- Python
+- PyTorch
+- YOLO / CV pipelines
+- OpenCV
+- Model training & inference workflows
+- Multimodal modeling
+- Data pipelines
+
+### Full-Stack
+- TypeScript
+- Next.js
+- React
+- Node.js
+- Express
+- PostgreSQL
+- SQL
+- REST APIs
+
+### Cloud & Infra
+- AWS
+- GCP
+- Cloudinary
+- Edge / Jetson deployments
+- Linux environments
+
+### Dev Tools
+- Git
+- Docker
+- Cursor / AI-assisted development
+- Web scraping pipelines
+- Automation workflows
+
+---
+
+## 🏆 Selected Achievements
+
+- Techstars Chicago AI Accelerator — Selected company
+- Computer vision paper — Sugarcane mass estimation (ISSCT 2025)
+- National electric vehicle competition — Best vehicle award
+- Built a functional electric motorcycle from scratch (<$4k, 4 months)
+
+---
+
+## 🔬 Current Focus
+
+Building multimodal agricultural AI systems at **Harvis**  
+→ crop yield estimation  
+→ quality detection  
+→ field intelligence from images + data
+
+---
+
+## 🤝 Connect
+
+LinkedIn:  
+https://linkedin.com/in/juanochoa-fullstack
+
+---
+
