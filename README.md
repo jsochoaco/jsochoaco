@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 I’m a technical founder and builder working on **applied AI for agriculture**.  
-CTO & Co-founder at **Tecde / Harvis**, a multimodal AI platform for crop productivity and quality estimation using computer vision and predictive models.
+CTO & Co-founder at **Tecde / Harvis**, a multimodal AI platform to give technical assitant to agricultors into Whatsapp. 
 
 Background in mechanical engineering, product design, and full-stack development. I specialize in turning messy real-world problems into working AI systems and production MVPs.
 
@@ -19,7 +19,8 @@ Background in mechanical engineering, product design, and full-stack development
 
 ## 🧠 What I Build
 
-- Computer vision pipelines for real-world environments  
+- Computer vision pipelines for real-world environments
+- Training and deploy LLM models 
 - Multimodal ML systems (image + tabular + field data)  
 - AI-powered web platforms  
 - Data collection & labeling pipelines  
